@@ -1,0 +1,25 @@
+{
+  "name": "podfile-generator",
+  "version": "0.0.1",
+  "description": "Automatic Podfile generator based on a module's package.json, for React Native modules on iOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adamski/podfile-generator.git"
+  },
+  "keywords": [
+    "cocoapods",
+    "podfile",
+    "react-native",
+    "ios"
+  ],
+  "author": "Adam Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamski/podfile-generator/issues"
+  },
+  "homepage": "https://github.com/adamski/podfile-generator#readme"
+}
