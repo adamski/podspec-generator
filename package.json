@@ -1,6 +1,6 @@
 {
   "name": "podspec-generator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Automatic Podfile generator based on a module's package.json, for React Native modules on iOS.",
   "main": "./lib/index.js",
   "preferGlobal": "true",
